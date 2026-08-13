@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain-openai
+langchain-groq
+langchain-community
+langchain-tavily
+psycopg[binary]
+psycopg-pool
+langgraph-checkpoint-postgres
+python-dotenv
+tavily-python
+streamlit
+requests
+langchain-mcp-adapters
+mcp>=1.24.0,<2
